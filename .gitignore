@@ -1,0 +1,6 @@
+# Compilaciones y temporales de Arduino
+*.tmp
+*.log
+.arduino/
+build/Compiled Binary/*.elf
+build/Compiled Binary/*.map
